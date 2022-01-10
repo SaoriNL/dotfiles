@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = saorimita4@gmail.com
+	name = Saori Mita
